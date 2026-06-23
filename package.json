@@ -15,7 +15,6 @@
     "puppeteer-core": "^22.6.0",
     "@sparticuz/chromium": "^123.0.0",
     "axe-core": "^4.9.0",
-    "canvas": "^2.11.2",
     "@supabase/supabase-js": "^2.43.0"
   }
 }
