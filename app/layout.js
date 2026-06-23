@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'EAA Accessibility SaaS',
   description: 'Scan and fix EAA compliance errors instantly',
