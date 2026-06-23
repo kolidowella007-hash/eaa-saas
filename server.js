@@ -10,7 +10,6 @@ const puppeteer = require('puppeteer-core');
 const chromium = require('@sparticuz/chromium');
 const { createClient } = require('@supabase/supabase-js');
 const { PuppeteerCrawler } = require('crawlee');
-const { createCanvas, loadImage } = require('canvas');
 const deepl = require('deepl-node');
 const axios = require('axios'); // might be needed for some calls (not heavily used)
 const nodemailer = require('nodemailer'); // optional, for forwarding
