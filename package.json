@@ -15,6 +15,7 @@
     "puppeteer-core": "^22.6.0",
     "@sparticuz/chromium": "^123.0.0",
     "axe-core": "^4.9.0",
-    "@supabase/supabase-js": "^2.43.0"
+    "@supabase/supabase-js": "^2.43.0",
+    "lucide-react": "^0.379.0"
   }
 }
